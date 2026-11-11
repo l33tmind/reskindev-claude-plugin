@@ -16,5 +16,9 @@
     "bangladesh"
   ],
   "privacyPolicyUrl": "https://reskindev.com/privacy-policy",
-  "icon": ".claude-plugin/icon.png"
+  "icon": ".claude-plugin/icon.png",
+  "repository": "https://github.com/l33tmind/reskindev-claude-plugin",
+  "supportUrl": "https://reskindev.com/support",
+  "documentationUrl": "https://reskindev.com/ai",
+  "termsOfServiceUrl": "https://reskindev.com/terms"
 }
