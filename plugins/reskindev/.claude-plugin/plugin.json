@@ -1,0 +1,9 @@
+{
+  "name": "reskindev",
+  "version": "1.0.0",
+  "description": "Find and hire freelancers on Reskindev, or post and improve your own gigs, by chatting with Claude.",
+  "author": { "name": "Reskindev", "url": "https://reskindev.com" },
+  "homepage": "https://reskindev.com/ai",
+  "license": "MIT",
+  "keywords": ["freelance", "marketplace", "gigs", "hiring", "bangladesh"]
+}

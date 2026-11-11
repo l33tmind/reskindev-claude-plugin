@@ -1,0 +1,11 @@
+{
+  "name": "reskindev",
+  "owner": { "name": "Reskindev" },
+  "plugins": [
+    {
+      "name": "reskindev",
+      "source": "./plugins/reskindev",
+      "description": "Find and hire freelancers on Reskindev, or post and improve your own gigs, by chatting with Claude."
+    }
+  ]
+}

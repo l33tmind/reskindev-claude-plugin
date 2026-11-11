@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "reskindev-hire": {
+      "type": "http",
+      "url": "https://reskindev.com/mcp/hire"
+    },
+    "reskindev": {
+      "type": "http",
+      "url": "https://reskindev.com/mcp"
+    }
+  }
+}
